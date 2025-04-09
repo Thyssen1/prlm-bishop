@@ -3,7 +3,7 @@ Solutions and supplementary materials for Pattern Recognition and Machine Learni
 
 # 📘 PRML Solutions and Notes
 
-![PRML Cover](images/prml.jpg)
+<img src="images/prml.jpg" alt="PRML Cover" width="250"/>
 
 > A companion project to *Pattern Recognition and Machine Learning* by C. M. Bishop.  
 > Includes complete problem solutions, annotated notes, extra derivations, simulations, and interactive visualizations.
