@@ -7,14 +7,22 @@ The exercises are categorized by difficulty: `*`, `**`, and `***`.
 
 ## 📌 Current Progress (Only `*` Exercises for Now)
 
-| Chapter     | `*` Exercises Completed | Total `*` Exercises |
-|-------------|--------------------------|----------------------|
-| Chapter 1   | 3                        | 20                   |
-| Chapter 2   | 2                        | 33                   |
-| Chapter 3   | 0                        | TBD                  |
-| Chapter 4   | 0                        | TBD                  |
-| Chapter 5   | 0                        | TBD                  |
-| Chapters 6–14 | 0                      | Planned              |
+| Chapter    | `*` Exercises Completed | Total `*` Exercises |
+|------------|-------------------------|---------------------|
+| Chapter 1  | 3                       | 20                  |
+| Chapter 2  | 2                       | 33                  |
+| Chapter 3  | 0                       | TBD                 |
+| Chapter 4  | 0                       | TBD                 |
+| Chapter 5  | 0                       | TBD                 |
+| Chapter 6  | 0                       | TBD                 |
+| Chapter 7  | 0                       | TBD                 |
+| Chapter 8  | 0                       | TBD                 |
+| Chapter 9  | 0                       | TBD                 |
+| Chapter 10 | 1                       | 10                  |
+| Chapter 11 | 0                       | TBD                 |
+| Chapter 12 | 0                       | TBD                 |
+| Chapter 13 | 0                       | TBD                 |
+| Chapter 14  | 0                       | TBD                 |
 
 ---
 
@@ -26,11 +34,11 @@ The exercises are categorized by difficulty: `*`, `**`, and `***`.
 
 **Goal:** Complete all `*` exercises in Chapters 1–5.
 
-- [x] Chapter 1 (`*`) – Progress: 3/20  
-- [x] Chapter 2 (`*`) – Progress: 2/33  
-- [ ] Chapter 3 (`*`) – In Progress  
-- [ ] Chapter 4 (`*`) – Planned (includes interactive Fisher demo)  
-- [ ] Chapter 5 (`*`) – Planned  
+- [ ] Chapter 1 (`*`) – Progress: 3/20  
+- [ ] Chapter 2 (`*`) – Progress: 1/26 
+- [ ] Chapter 3 (`*`) – Progress: 2/8 
+- [ ] Chapter 4 (`*`) – Progress: 4/15
+- [ ] Chapter 5 (`*`) – Progress: 26
 
 ---
 
